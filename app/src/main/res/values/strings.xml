@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts App_experimental week</string>
+    <string-array name="groups">
+        <item>全部</item>
+        <item>家人</item>
+        <item>朋友</item>
+        <item>同学</item>
+        <item>同事</item>
+    </string-array>
+    <string name="delete_contact_preamble">Deleting </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
