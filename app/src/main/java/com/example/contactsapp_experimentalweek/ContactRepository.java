@@ -32,8 +32,7 @@ public class ContactRepository {
 //        cContactDao.updateContact(contact);
         new updateAsyncTask(cContactDao).execute(contact);
     }
-
-    // 删除联系人
+    // dsada
     public void deleteContact(Contact contact) {
 //        cContactDao.deleteContact(contact);
         new deleteContactAsyncTask(cContactDao).execute(contact);
